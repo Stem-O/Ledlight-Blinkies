@@ -16,7 +16,6 @@ void setup() {
 }
 
 void loop() {
-  
   //turn on white LED on and the other LEDs off
    digitalWrite(led_red, LOW); 
   digitalWrite(led_yellow, LOW);
@@ -60,7 +59,7 @@ void loop() {
    digitalWrite(led_orange, LOW);
     digitalWrite(led_blue, LOW);
     digitalWrite(led_white,LOW);
-  delay(1000);   // wait 1 second
+  delay(2000);   // wait 2 seconds
   
   // turn the red LED on and the other LEDs off
   digitalWrite(led_red, HIGH);  
@@ -69,5 +68,5 @@ void loop() {
     digitalWrite(led_orange, LOW);
     digitalWrite(led_blue, LOW);
     digitalWrite(led_white,LOW);
-  delay(3000);  // wait 3 seconds        
+  delay(2000);  // wait 2 seconds        
 }

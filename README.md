@@ -1,6 +1,6 @@
 ## <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width=50px>Led-light blinkies using Arduino UNO R3
 <p>
-  This is a simple arduino project that sequentially blinks from white going to red. Each has a time out of 2 seconds.
+  This is a simple arduino project that sequentially blinks from white going to red. <br> Each has a time out of 2 seconds.
   </p>
   
 <img src="aduino-blinkies.png">
